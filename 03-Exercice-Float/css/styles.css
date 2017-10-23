@@ -1,0 +1,45 @@
+.body {
+
+    width: 1000px;
+}
+
+
+.rectangle{
+    border :1px solid;
+}
+
+.rectangle {
+width: 500px;
+height: 750px;
+float: left;
+}
+
+.carre{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+.carre1{
+   background-color: black;
+}
+
+.carre2 {
+    background-color: green;
+}
+
+.carre3 {
+    background-color: rgb(90, 15, 80);
+}
+
+.carre4 {
+    background-color: rgb(206, 96, 7);
+}
+
+.carre5 {
+    background-color: rgb(29, 5, 5);
+}
+
+.carre6 {
+    background-color: rgb(159, 214, 31);
+}
